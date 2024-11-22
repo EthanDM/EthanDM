@@ -55,15 +55,15 @@ Lead Software Engineer with **7+ years of experience** building scalable web and
 
 ### **alook Dating**  
 A mobile dating app built for iOS/Android using **React Native**, **PostgreSQL**, and **Heroku**. Designed to create a more user-focused and efficient experience in the dating space.
-[🔗 View Project](https://www.alookdating.com){:target="_blank"}
+[🔗 View Project](https://www.alookdating.com)
 
 ### **Tribal Credit**  
 A React Native-powered app that enabled financial solutions for global teams. Contributed to team scaling and Series A funding.
-[🔗 View Project](https://tribal.credit){:target="_blank"}
+[🔗 View Project](https://tribal.credit)
 
 ### **Valuzz**  
 A financial valuation platform built for **ABI Multifamily**. Delivered a scalable solution using **Vue.js**, **MongoDB**, and **Express.js**, improving workflows for 50+ users and enhancing operational efficiency.
-[🔗 View Project](https://www.valuzz.com){:target="_blank"}
+[🔗 View Project](https://www.valuzz.com)
 
 ---
 
