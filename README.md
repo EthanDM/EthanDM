@@ -46,7 +46,7 @@ Lead Software Engineer with **7+ years of experience** building scalable web and
 
 ## 📈 Career Highlights  
 
-- 🚀 Built an MVP of a dating app (Alook) from scratch, delivering a production-ready mobile app in less than a year.  
+- 🚀 Built an MVP of a dating app (alook) from scratch, delivering a production-ready mobile app in less than a year.  
 - 📱 Scaled a fintech mobile app (Tribal Credit) to production, leading a team of 7 engineers and enabling **Series A funding**.  
 - 💻 Engineered a financial valuation platform at **ABI Multifamily**, streamlining workflows for over 50 users.  
 
@@ -61,6 +61,10 @@ A mobile dating app built for iOS/Android using **React Native**, **PostgreSQL**
 ### **Tribal Credit App**  
 A React Native-powered app that enabled financial solutions for global teams. Contributed to team scaling and Series A funding.  
 [🔗 View Project](https://tribal.credit)
+
+### **Valuzz**  
+A financial valuation platform built for **ABI Multifamily**. Delivered a scalable solution using **Vue.js**, **MongoDB**, and **Express.js**, improving workflows for 50+ users and enhancing operational efficiency.  
+[🔗 View Project](https://www.valuzz.com)
 
 ---
 
