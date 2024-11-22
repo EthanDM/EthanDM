@@ -54,11 +54,11 @@ Lead Software Engineer with **7+ years of experience** building scalable web and
 
 ## 📂 Featured Projects  
 
-### **Alook Dating**  
+### **alook Dating**  
 A mobile dating app built for iOS/Android using **React Native**, **PostgreSQL**, and **Heroku**. Designed to create a more user-focused and efficient experience in the dating space.  
 [🔗 View Project](https://www.alookdating.com)
 
-### **Tribal Credit App**  
+### **Tribal Credit**  
 A React Native-powered app that enabled financial solutions for global teams. Contributed to team scaling and Series A funding.  
 [🔗 View Project](https://tribal.credit)
 
