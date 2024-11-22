@@ -24,7 +24,7 @@ Lead Software Engineer with **7+ years of experience** building scalable web and
 
 - 🛠️ **Tech Expertise**: Proficient in **React**, **React Native**, **Node.js**, **TypeScript**, and more.  
 - 🌟 **Recent Projects**:  
-  - **[Alook Dating](#)**: Built and launched a mobile dating app (iOS/Android) in **9 months** using React Native and PostgreSQL. Designed the app's UX/UI and led backend development.  
+  - **[alook Dating](https://www.alookdating.com)**: Built and launched a mobile dating app (iOS/Android) in **9 months** using React Native and PostgreSQL. Designed the app's UX/UI and led backend development.  
   - **Tribal Credit**: Delivered the MVP of a React Native app, scaling the team to 7 engineers and contributing to Series A funding success.  
 - 🌍 Based in **Scottsdale, AZ**, open to remote or hybrid roles.  
 - 🎯 I thrive on tackling complex problems and bringing ideas to life with **clean, scalable code**.
@@ -56,11 +56,11 @@ Lead Software Engineer with **7+ years of experience** building scalable web and
 
 ### **Alook Dating**  
 A mobile dating app built for iOS/Android using **React Native**, **PostgreSQL**, and **Heroku**. Designed to create a more user-focused and efficient experience in the dating space.  
-[🔗 View Project](#)
+[🔗 View Project](https://www.alookdating.com)
 
 ### **Tribal Credit App**  
 A React Native-powered app that enabled financial solutions for global teams. Contributed to team scaling and Series A funding.  
-[🔗 View Project](#)
+[🔗 View Project](https://tribal.credit)
 
 ---
 
@@ -71,7 +71,7 @@ Let’s connect!
 - 📧 [ethan.millstein@gmail.com](mailto:ethan.millstein@gmail.com)  
 - 🌐 [LinkedIn](https://linkedin.com/in/ethanmillstein)  
 - 💻 [GitHub](https://github.com/EthanDM)  
-- 📅 [Schedule a Meeting](#)  
+- 📅 [Schedule a Meeting](https://cal.com/ethan-millstein)  
 
 ---
 
