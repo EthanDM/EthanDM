@@ -23,7 +23,7 @@ Lead Software Engineer with **7+ years of experience** building scalable web and
 
 - 🛠️ **Tech Expertise**: Proficient in **React**, **React Native**, **Node.js**, **TypeScript**, and more.
 - 🌟 **Recent Projects**:
-  - **[alook Dating](https://www.alookdating.com){:target="_blank"}**: Built and launched a mobile dating app (iOS/Android) in **9 months** using React Native and PostgreSQL. Designed the app's UX/UI and led backend development.
+  - **<a href="https://www.alookdating.com" target="_blank" rel="noopener noreferrer">alook Dating</a>**: Built and launched a mobile dating app (iOS/Android) in **9 months** using React Native and PostgreSQL. Designed the app's UX/UI and led backend development.
   - **Tribal Credit**: Delivered the MVP of a React Native app, scaling the team to 7 engineers and contributing to Series A funding success.
 - 🌍 Based in **Scottsdale, AZ**, open to remote or hybrid roles.
 - 🎯 I thrive on tackling complex problems and bringing ideas to life with **clean, scalable code**.
