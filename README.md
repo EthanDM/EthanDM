@@ -1,82 +1,88 @@
-<!--
-**EthanDM/EthanDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Ethan Millstein
 
-Lead Software Engineer with **7+ years of experience** building scalable web and mobile applications. I specialize in creating intuitive user-centric products, optimizing performance, and leading cross-functional teams to deliver impactful software solutions.
+Lead Software Engineer with 8+ years of experience building scalable web and mobile applications.
 
----
+I specialize in React Native, full-stack product delivery, and clean architectural thinking — helping teams ship faster without sacrificing long-term maintainability. I thrive in roles that blend execution, product instinct, and engineering leadership.  
 
-## 🚀 About Me
+I’ve led core projects across B2B, consumer, and internal tools — with an emphasis on clarity, scalability, and product-first thinking.
 
-- 🛠️ **Tech Expertise**: Proficient in **React**, **React Native**, **Node.js**, **TypeScript**, and more.
-- 🌟 **Recent Projects**:
-  - **[alook Dating](https://www.alookdating.com)**: Built and launched a mobile dating app (iOS/Android) in **9 months** using React Native and PostgreSQL. Designed the app's UX/UI and led backend development.
-  - **[Tribal Credit](https://tribal.credit)**: Delivered the MVP of a React Native app, scaling the team to 7 engineers and contributing to Series A funding success.
-- 🌍 Based in **Scottsdale, AZ**, open to remote or hybrid roles.
-- 🎯 I thrive on tackling complex problems and bringing ideas to life with **clean, scalable code**.
+## 🧩 Popl — Lead Mobile Architecture & Engineering
 
----
+**Popl** is a complete in-person go-to-market platform for companies:  
+Lead capture, digital business cards, and contact enrichment — all in one app.
 
-## 🛠️ Technical Skills
+As Senior Mobile Engineer, I’m leading a full modernization of the mobile architecture to support this shift.
 
-### **Programming Languages**
-- TypeScript, JavaScript, Python, Ruby, HTML, CSS
+- **Focus Areas**: Architecture • Performance • Developer Experience • Product Polish  
+- **Key Work**:
+  - Rebuilding React Native architecture for scale and clarity
+  - Optimizing performance and screen transitions
+  - Owning mobile release management and QA workflows
+  - Leading full design rebrand implementation
+  - Supporting team growth and mentoring new engineers
 
-### **Libraries & Frameworks**
-- React, Next.js, React Native, Node.js, Vue.js, AdonisJS
-
-### **Databases & Tools**
-- PostgreSQL, MongoDB, Redis, Heroku, AWS, Vercel
-
----
-
-## 📈 Career Highlights
-
-- 🚀 Built an MVP of a dating app (alook) from scratch, delivering a production-ready mobile app in less than a year.
-- 📱 Scaled a fintech mobile app (Tribal Credit) to production, leading a team of 7 engineers and enabling **Series A funding**.
-- 💻 Engineered a financial valuation platform at **ABI Multifamily**, streamlining workflows for over 50 users.
+**Stack**: React Native (Expo bare), TypeScript
 
 ---
 
 ## 📂 Featured Projects
 
 ### **alook Dating**  
-A mobile dating app built for iOS/Android using **React Native**, **PostgreSQL**, and **Heroku**. Designed to create a more user-focused and efficient experience in the dating space.
-[🔗 View Project](https://www.alookdating.com)
+A privacy-first dating app built solo in under a year.
+
+- **Tech**: React Native, PostgreSQL, Heroku  
+- **Focus**: Rejection-free matching and user control  
+- **Role**: Led product concept, UX, full-stack development, launch, and iteration  
+🔗 [alookdating.com](https://www.alookdating.com)
+
+---
 
 ### **Tribal Credit**  
-A React Native-powered app that enabled financial solutions for global teams. Contributed to team scaling and Series A funding.
-[🔗 View Project](https://tribal.credit)
+A global fintech platform serving startups in emerging markets.
+
+- **Tech**: React Native  
+- **Focus**: Mobile financial tools for global teams  
+- **Role**: Delivered MVP and helped scale engineering to 7+ developers; supported Series A growth  
+🔗 [tribal.credit](https://www.tribal.credit)
+
+---
 
 ### **Valuzz**  
-A financial valuation platform built for **ABI Multifamily**. Delivered a scalable solution using **Vue.js**, **MongoDB**, and **Express.js**, improving workflows for 50+ users and enhancing operational efficiency.
-[🔗 View Project](https://www.valuzz.com)
+A valuation and underwriting platform for commercial real estate.
+
+- **Tech**: Vue.js, Node.js, MongoDB, Express  
+- **Focus**: Replacing spreadsheet-heavy workflows with real-time tools  
+- **Role**: Led full rewrite for ABI Multifamily; improved deal speed and collaboration for 50+ agents and analysts  
+🔗 [valuzz.com](https://www.valuzz.com)
 
 ---
 
-## 📬 Contact Me
+## 🛠 Technical Stack
 
-Let’s connect!
+### **Languages**  
+TypeScript, JavaScript, Python, Ruby, HTML, CSS
 
-- 📧 [ethan.millstein@gmail.com](mailto:ethan.millstein@gmail.com)
-- 🌐 [LinkedIn](https://linkedin.com/in/ethanmillstein)
-- 💻 [GitHub](https://github.com/EthanDM)
-- 📅 [Schedule a Meeting](https://cal.com/ethan-millstein)
+### **Frameworks & Libraries**  
+React, React Native, Next.js, Node.js, Vue
+
+### **Databases & Infra**  
+PostgreSQL, MongoDB, Redis, AWS, Heroku, Vercel
 
 ---
 
-### 📖 Fun Fact
-When I’m not coding, I enjoy **mountain biking**, **pickleball**, and **exploring the outdoors**.
+## ✨ Highlights
+
+- 🚀 Leading Popl’s mobile modernization — architecture, releases, performance, and product delivery  
+- 📱 Built and launched **alook**, a fully functional dating app, end-to-end  
+- 💳 Scaled **Tribal Credit’s** mobile team and product from MVP to Series A  
+- 🧮 Delivered enterprise tooling at **Valuzz** that improved operational efficiency for commercial real estate
+
+## 📬 Let’s Connect
+
+- 📧 ethan.millstein@gmail.com  
+- 🌐 [LinkedIn](https://linkedin.com/in/ethanmillstein)  
+- 💻 [GitHub](https://github.com/EthanDM)  
+- 📅 [Book a chat](https://cal.com/ethan-millstein)
+
+### ☕ Fun Fact  
+Outside of code, you’ll find me biking, playing pickleball, or refining systems for clarity and focus.
