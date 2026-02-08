@@ -12,4 +12,4 @@ Selected work:
 - **Valuzz** — Long-lived internal platform used daily by real estate teams.
 
 Contact:
-linkedin.com/in/ethanmillstein
+[linkedin.com/in/ethanmillstein](https://www.linkedin.com/in/ethanmillstein/)
